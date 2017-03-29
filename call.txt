@@ -1,0 +1,1 @@
+youtube-dl -o ./data/r-XuaFIfP2E"/%(id)s.%(ext)s" -x --sub-lang en   --write-sub --sub-format vtt --convert-subtitles srt --write-auto-sub   --continue --write-info-json --write-description --write-annotations   --min-filesize 50k --ignore-errors --write-all-thumbnails --no-call-home   --audio-format mp3 r-XuaFIfP2E
