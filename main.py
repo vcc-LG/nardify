@@ -7,7 +7,7 @@ import subprocess
 youtube_id = '6s5vlQdQp4s'
 
 program_to_call = 'youtube-dl'
-arg1 = r"-o data/{0}\"/%(id)s.%(ext)s\"".format(youtube_id)
+arg1 = r"-o data/{0}/%(id)s.%(ext)s".format(youtube_id)
 arg2 = '-x'
 arg3 = '--sub-lang'
 arg4 = 'en'
