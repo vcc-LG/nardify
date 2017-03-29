@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_pPr5cr80gIVjQgWCh39PAgcKPgdMgJpdkiLz8K60PKb5-oB">
+<annotation id="channel:554b591c-0000-2d2c-8519-001a113ff228" style="branding" type="branding"
+            log_data="ei=Nh3cWP6gBo2RWP35oOAB&amp;a-ch=UC8h8NJG9gacZ5lAJJvhD0fQ&amp;a-v=6s5vlQdQp4s&amp;link-id=UC8h8NJG9gacZ5lAJJvhD0fQ&amp;a-id=554b591c-0000-2d2c-8519-001a113ff228&amp;l-class=3&amp;xble=0&amp;a-type=10">
+  <data>{&quot;channel_name&quot;:&quot;NardwuarServiette&quot;,&quot;subscription_token&quot;:&quot;&quot;,&quot;channel_id&quot;:&quot;UC8h8NJG9gacZ5lAJJvhD0fQ&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;end_ms&quot;:740000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/8h8NJG9gacZ5lAJJvhD0fQ\/featured_channel.jpg?v=555d121e&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;Nh3cWP6gBo2RWP35oOAB&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;6s5vlQdQp4s&quot;,&quot;annotation_id&quot;:&quot;554b591c-0000-2d2c-8519-001a113ff228&quot;,&quot;itct&quot;:&quot;CAEQ8zcY____________ASITCP6T6-XK_NICFY0IFgod_TwIHCj4HTICaXZIi8_CutDym-fqAQ&quot;},&quot;image_height&quot;:42,&quot;image_width&quot;:37,&quot;num_subscribers&quot;:&quot;450099&quot;,&quot;is_mobile&quot;:false,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/NardwuarServiette"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation></annotations></document>
